@@ -1,2 +1,2 @@
 # Week 1
-[RMarkdownAssignment](mef03-mclngr/RMarkdownAssignment.html)
+[RMarkdownAssignment](https://github.com/pjournal/mef03-mclngr/blob/master/RMarkdownAssignment.html)
